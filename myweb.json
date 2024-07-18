@@ -10,49 +10,49 @@
           "company": "Company 1",
           "role": "Frontend Developer",
           "duration": "Jan 2020 - Present",
-          "details": "Developed and maintained web applications using modern frontend technologies."
+          "details":  "Developed and maintained web applications using modern frontend technologies. Led the development of a customer-facing web application, collaborated with UX/UI designers to implement design specifications, optimized application for maximum speed and scalability, and ensured cross-browser compatibility and responsiveness."
         },
         {
           "company": "Company 2",
           "role": "Web Developer",
           "duration": "Jun 2017 - Dec 2019",
-          "details": "Worked on various projects involving responsive web design and performance optimization."
+          "details": "Worked on various projects involving responsive web design and performance optimization. Developed and maintained code for client websites using HTML, CSS, and JavaScript, integrated APIs and dynamic data with back-end developers, and participated in code reviews to provide feedback."
         },
         {
           "company": "Company 3",
           "role": "Software Engineer",
           "duration": "Jan 2015 - May 2017",
-          "details": "Collaborated with cross-functional teams to deliver high-quality software solutions."
+          "details": "Collaborated with cross-functional teams to deliver high-quality software solutions. Developed web applications using multiple programming languages and frameworks, wrote unit and integration tests, and participated in daily stand-ups and sprint planning meetings."
         },
         {
           "company": "Company 4",
           "role": "Junior Developer",
           "duration": "Jul 2013 - Dec 2014",
-          "details": "Assisted in the development of web applications and debugging of code."
+          "details":"Assisted in the development of web applications and debugging of code. Supported senior developers in coding, testing, and debugging applications, learned best practices in software development and agile methodologies, and contributed to the development of internal tools and libraries."
         }
       ]
     },
     "resume": {
       "education": [
         {
-          "institution": "University 1",
-          "degree": "Bachelor of Science in Computer Science",
-          "year": "2013"
+          "institution": "Yaba college of technology",
+          "degree": "National Diploma",
+          "year": "2018"
         },
         {
-          "institution": "University 2",
-          "degree": "Master of Science in Software Engineering",
-          "year": "2015"
+          "institution": "Yaba college of technology",
+          "degree": "Higher National Diploma",
+          "year": "2021"
         },
         {
-          "institution": "Certification 1",
+          "institution": "Udemy",
           "certificate": "Certified Web Developer",
-          "year": "2016"
+          "year": "2022"
         }
       ],
       "experiences": [
         {
-          "company": "Univelcity",
+          "company": "Univel",
           "role": "Frontend Developer",
           "duration": "Jan 2020 - Present"
         },
