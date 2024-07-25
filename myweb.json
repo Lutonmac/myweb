@@ -1,120 +1,120 @@
 {
-    "aboutMe": {
-      "name": "Gideon Owadara",
-      "age": 30,
-      "role": "Frontend Developer and Engineer",
-      "whatIDo": "Building and optimizing user interfaces for web applications.",
-      "summary": "I am a dedicated frontend developer with a passion for creating efficient and aesthetically pleasing web interfaces. With extensive experience in various web technologies, I am committed to delivering high-quality digital solutions.",
-      "experience": [
-        {
-          "company": "Company 1",
-          "role": "Frontend Developer",
-          "duration": "Jan 2020 - Present",
-          "details":  "Developed and maintained web applications using modern frontend technologies. Led the development of a customer-facing web application, collaborated with UX/UI designers to implement design specifications, optimized application for maximum speed and scalability, and ensured cross-browser compatibility and responsiveness."
-        },
-        {
-          "company": "Company 2",
-          "role": "Web Developer",
-          "duration": "Jun 2017 - Dec 2019",
-          "details": "Worked on various projects involving responsive web design and performance optimization. Developed and maintained code for client websites using HTML, CSS, and JavaScript, integrated APIs and dynamic data with back-end developers, and participated in code reviews to provide feedback."
-        },
-        {
-          "company": "Company 3",
-          "role": "Software Engineer",
-          "duration": "Jan 2015 - May 2017",
-          "details": "Collaborated with cross-functional teams to deliver high-quality software solutions. Developed web applications using multiple programming languages and frameworks, wrote unit and integration tests, and participated in daily stand-ups and sprint planning meetings."
-        },
-        {
-          "company": "Company 4",
-          "role": "Junior Developer",
-          "duration": "Jul 2013 - Dec 2014",
-          "details":"Assisted in the development of web applications and debugging of code. Supported senior developers in coding, testing, and debugging applications, learned best practices in software development and agile methodologies, and contributed to the development of internal tools and libraries."
-        }
-      ]
-    },
-    "resume": {
-      "education": [
-        {
-          "institution": "Yaba college of technology",
-          "degree": "National Diploma",
-          "year": "2018"
-        },
-        {
-          "institution": "Yaba college of technology",
-          "degree": "Higher National Diploma",
-          "year": "2021"
-        },
-        {
-          "institution": "Udemy",
-          "certificate": "Certified Web Developer",
-          "year": "2022"
-        }
-      ],
-      "experiences": [
-        {
-          "company": "Univel",
-          "role": "Frontend Developer",
-          "duration": "Jan 2020 - Present"
-        },
-        {
-          "company": "Durante",
-          "role": "Web Developer",
-          "duration": "Jun 2017 - Dec 2019"
-        },
-        {
-          "company": "OJO's autos",
-          "role": "Mechanical Engineer",
-          "duration": "Jan 2011 - May 2014"
-        }
-      ]
-    },
-    "portfolio": {
-      "images": [
-        "https://images.unsplash.com/photo-1721062754942-8453d9c66f97?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1542744094-3a31f272c490?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1635405050330-b0824eb1bf26?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1569323112685-9c1410e5a0fd?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1526378787940-576a539ba69d?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://plus.unsplash.com/premium_photo-1681488408867-66ffd3c8339d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1669220235918-04cbf9e054b9?q=80&w=3028&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1621857093087-7daa85ab14a6?q=80&w=2990&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?q=80&w=2500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1637502877428-27e6553a8817?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-      ]
-    },
-    "testimonials": [
+  "aboutMe": {
+    "name": "Gideon Owadara",
+    "age": 30,
+    "role": "Frontend Developer and Engineer",
+    "whatIDo": "Building and optimizing user interfaces for web applications.",
+    "summary": "I am a dedicated frontend developer with a passion for creating efficient and aesthetically pleasing web interfaces. With extensive experience in various web technologies, I am committed to delivering high-quality digital solutions.",
+    "experience": [
       {
-        "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "name": "John Doe",
-        "feedback": "Gideon is a highly skilled developer who consistently delivers high-quality work.",
-        "initials": "JD"
+        "id": 1,
+        "company": "Company 1",
+        "role": "Frontend Developer",
+        "duration": "Jan 2020 - Present",
+        "details": "Developed and maintained web applications using modern frontend technologies. Led the development of a customer-facing web application, collaborated with UX/UI designers to implement design specifications, optimized application for maximum speed and scalability, and ensured cross-browser compatibility and responsiveness."
       },
       {
-        "image": "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?q=80&w=2952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "name": "Jane Smith",
-        "feedback": "Working with Gideon has been a pleasure. His attention to detail is impeccable.",
-        "initials": "JS"
+        "id": 2,
+        "company": "Company 2",
+        "role": "Web Developer",
+        "duration": "Jun 2017 - Dec 2019",
+        "details": "Worked on various projects involving responsive web design and performance optimization. Developed and maintained code for client websites using HTML, CSS, and JavaScript, integrated APIs and dynamic data with back-end developers, and participated in code reviews to provide feedback."
       },
       {
-        "image": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "name": "Michael Brown",
-        "feedback": "Gideon's expertise in frontend development is unmatched.",
-        "initials": "MB"
+        "id": 3,
+        "company": "Company 3",
+        "role": "Software Engineer",
+        "duration": "Jan 2015 - May 2017",
+        "details": "Collaborated with cross-functional teams to deliver high-quality software solutions. Developed web applications using multiple programming languages and frameworks, wrote unit and integration tests, and participated in daily stand-ups and sprint planning meetings."
       },
       {
-        "image": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "name": "Emily White",
-        "feedback": "I highly recommend Gideon for any web development project.",
-        "initials": "EW"
+        "id": 4,
+        "company": "Company 4",
+        "role": "Junior Developer",
+        "duration": "Jul 2013 - Dec 2014",
+        "details": "Assisted in the development of web applications and debugging of code. Supported senior developers in coding, testing, and debugging applications, learned best practices in software development and agile methodologies, and contributed to the development of internal tools and libraries."
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "id": 1,
+        "institution": "Yaba College of Technology",
+        "degree": "National Diploma",
+        "year": "2018"
+      },
+      {
+        "id": 2,
+        "institution": "Yaba College of Technology",
+        "degree": "Higher National Diploma",
+        "year": "2021"
+      },
+      {
+        "id": 3,
+        "institution": "Udemy",
+        "certificate": "Certified Web Developer",
+        "year": "2022"
       }
     ],
-    "contact": {
-      "email": ["gideonowa@gmail.com", "gideonlasgidi@gmail.com"],
-      "phoneNumber": "+234806-993-0587",
-      "reasonToContactMe": "For project inquiries, collaborations, or any other questions.",
-      "acknowledgement": "Thank you for reaching out. I will get back to you as soon as possible."
-    }
-  }
-  
+    "experiences": [
+      {
+        "id": 1,
+        "company": "Univel",
+        "role": "Frontend Developer",
+        "duration": "Jan 2020 - Present"
+      },
+      {
+        "id": 2,
+        "company": "Durante",
+        "role": "Web Developer",
+        "duration": "Jun 2017 - Dec 2019"
+      },
+      {
+        "id": 3,
+        "company": "OJO's Autos",
+        "role": "Mechanical Engineer",
+        "duration": "Jan 2011 - May 2014"
+      }
+    ]
+  },
+  "portfolio": {
+    "images": [
+      {
+        "id": 1,
+        "url": "https://images.unsplash.com/photo-1721062754942-8453d9c66f97?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 2,
+        "url": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 3,
+        "url": "https://images.unsplash.com/photo-1542744094-3a31f272c490?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 4,
+        "url": "https://images.unsplash.com/photo-1635405050330-b0824eb1bf26?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 5,
+        "url": "https://images.unsplash.com/photo-1569323112685-9c1410e5a0fd?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 6,
+        "url": "https://images.unsplash.com/photo-1526378787940-576a539ba69d?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 7,
+        "url": "https://plus.unsplash.com/premium_photo-1681488408867-66ffd3c8339d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 8,
+        "url": "https://images.unsplash.com/photo-1669220235918-04cbf9e054b9?q=80&w=3028&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 9,
+        "url": "https://images.unsplash.com/photo-1621857093087-7daa85ab14a6?q=80&w=2990&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "
